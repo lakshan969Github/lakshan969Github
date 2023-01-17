@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dumindu Lakshan 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Design & Development
 - 🌱 I’m currently learning ReactJS, NextJS & Redux
 
 <!---
