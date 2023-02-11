@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dumindu Lakshan Bandara
+<img src="https://raw.githubusercontent.com/lakshan969Github/lakshan969Github/master/ani.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dumindu Lakshan
 ===============================================================================================================================================
 
 Undergraduate
@@ -6,11 +8,14 @@ Undergraduate
 
 As an undergraduate in Information Technology, I bring a strong motivation and eagerness to my studies and projects. My focus is on expanding my software and web development expertise and exploring the exciting realm of Artificial Intelligence. I am dedicated to continuously seeking new opportunities to challenge myself and advance my skills. In addition, I am always open to collaboration and welcome constructive feedback as I strive to grow and develop as a developer. I am thrilled to be a part of the GitHub community and look forward to sharing my work and learning from others.
 
+<img align="right" alt="Coding" width="400" src="https://github.com/lakshan969Github/lakshan969Github/blob/main/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif?raw=true">
+
 * 🌍  I'm based in Malabe, Sri Lanka
 * 🖥️  See my portfolio at [MyPortfolio](http://react-portfolio-27w.pages.dev/)
 * ✉️  You can contact me at [lakshand969@gmail.com](mailto:lakshand969@gmail.com)
 * 🧠  I'm learning Mren Stack, & Artificial Intelligence
 * ⚡  As a curious and ambitious individual, I am always seeking to expand my knowledge and skills in the field of technology
+
 
 ### Skills
 
@@ -52,10 +57,10 @@ src="https://img.shields.io/twitter/follow/@DuminduLaksha17 ?logo=twitter&style=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lakshan969Github"><img src="https://github-readme-stats.vercel.app/api?username=lakshan969Github&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="lakshan969Github's GitHub stats" /></a>
+<a href="http://www.github.com/lakshan969Github"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=lakshan969Github&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="lakshan969Github's GitHub stats" /></a>
 
-<a href="http://www.github.com/lakshan969Github"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan969Github&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/lakshan969Github"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan969Github&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/lakshan969Github"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lakshan969Github&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/lakshan969Github" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan969Github&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lakshan969Github" align="left"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan969Github&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
