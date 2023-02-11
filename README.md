@@ -63,4 +63,4 @@ src="https://img.shields.io/twitter/follow/@DuminduLaksha17 ?logo=twitter&style=
 
 <a href="http://www.github.com/lakshan969Github"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lakshan969Github&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/lakshan969Github" align="left"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan969Github&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lakshan969Github" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan969Github&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
