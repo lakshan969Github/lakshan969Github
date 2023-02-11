@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dumindu Lakshan Bandara</h1>
-<img src="https://raw.githubusercontent.com/lakshan969Github/lakshan969Github/master/avater.png" alt="banner that says Dumindu Lakshan - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/lakshan969Github/lakshan969Github/master/github-header-image (1).png" alt="banner that says Dumindu Lakshan - software engineer of Monica">
 <h3 align="center">I am a motivated and enthusiastic undergraduate student studying Information Technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/lakshan969Github/lakshan969Github/blob/main/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif?raw=true">
 
