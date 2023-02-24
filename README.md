@@ -13,7 +13,7 @@ As an undergraduate in Information Technology, I bring a strong motivation and e
 * 🌍  I'm based in Malabe, Sri Lanka
 * 🖥️  See my portfolio at [MyPortfolio](http://react-portfolio-27w.pages.dev/)
 * ✉️  You can contact me at [lakshand969@gmail.com](mailto:lakshand969@gmail.com)
-* 🧠  I'm learning Mren Stack, & Artificial Intelligence
+* 🧠  I'm learning Mern Stack, & Artificial Intelligence
 * ⚡  As a curious and ambitious individual, I am always seeking to expand my knowledge and skills in the field of technology
 
 
